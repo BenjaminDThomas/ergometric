@@ -1,0 +1,1 @@
+Developed a fully functional e-commerce website for Ergometric using Shopify. Managed design, mobile/desktop accessibility, SEO optimization, and implemented all product listings. Integrated Elfsight widgets for business features like opening hours and ensured a seamless navigation system.
